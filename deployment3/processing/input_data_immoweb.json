@@ -1,0 +1,20 @@
+{
+  "data": {
+    "area": 220,
+    "property_type": "APARTMENT",
+    "rooms_number": 2,
+    "zip_code": 1080,
+    "land_area": 200,
+    "garden": false,
+    "garden_area": 0,
+    "equipped_kitchen": false,
+    "full_address": "blabla",
+    "swimming_pool": false,
+    "furnished": false,
+    "open_fire": false,
+    "terrace": true,
+    "terrace_area": 100,
+    "facades_number": 4,
+    "building_state": "GOOD"
+  }
+}
